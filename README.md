@@ -1,4 +1,4 @@
-# diet-app-test
+# diet-app-test in React
 
 ## TODO:
   
@@ -15,3 +15,8 @@
 ### Version 2:
 
 * Gamification - point system
+* Add Redux
+
+## Mockups:
+
+*coming soon...*
